@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Bansal</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab117&label=Profile%20views&color=0e75b6&style=flat" alt="adityab117" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityab117" alt="adityab117" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityab41738980" target="blank"><img src="https://img.shields.io/twitter/follow/adityab41738980?logo=twitter&style=for-the-badge" alt="adityab41738980" /></a> </p>
