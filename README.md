@@ -1,7 +1,8 @@
+<p align='center' style='margin: 16px 5px 8px;'>
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/greetings.gif?raw=true" alt="Hello World" />
+</p>
 <h1 align="center">Hi 👋, I'm Aditya Bansal</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityab117" alt="adityab117" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityab41738980" target="blank"><img src="https://img.shields.io/twitter/follow/adityab41738980?logo=twitter&style=for-the-badge" alt="adityab41738980" /></a> </p>
 
@@ -25,6 +26,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityab117&show_icons=true&locale=en&layout=compact" alt="adityab117" /></p>
+<summary><b>🏆 <h2>  Github Achievements :</h2></b></summary>
+<p align="left" style='padding: -35px;' >
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Adityab1179&theme=gruvbox&column=6&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+    </a>
+</p>
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <h2> Github Status <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> :</h2>
+</summary>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab117&show_icons=true&locale=en" alt="adityab117" /></p>
+<span>
+<p align="center" style='margin: 8px 4px;'>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityab1179&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10"  width="500px" alt="aniketkumar7" />
+</p>
+   <p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api?username=Adityab1179&show_icons=true&locale=en&theme=gruvbox" width="500px" alt="aniketkumar7" />
+</p>
+</span>
+</details><br><br/>
