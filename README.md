@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **adityabansal1179@gmail.com**
 - Or you can reach me through
-- [![Instagram](https://img.shields.io/badge/Instagram-%40Aaditya__bansal__-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Aaditya__bansal_/)
+- [![Follow me on Instagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-%40Aaditya__bansal__-pink?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ffd700&color=ff69b4&labelBorderRadius=20&logoWidth=20)](https://www.instagram.com/Aaditya__bansal__/)
+badge&logo=instagram&logoColor=white&labelColor=ffd700&color=ff69b4&labelBorderRadius=20&logoWidth=20)](https://www.instagram.com/your_username/)
+
 - ![Visitor Count](https://profile-counter.glitch.me/{Adityab1179}/count.svg)
 
 <h3 align="left">Connect with me:</h3>
