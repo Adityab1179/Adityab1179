@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [WEMEDIA](WEMEDIA)
 
-- 💬 Ask me about **HTML,CSS,C,CPP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,C,CPP**
 
 - 📫 How to reach me **adityabansal1179@gmail.com**
 
