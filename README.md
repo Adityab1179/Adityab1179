@@ -15,6 +15,7 @@
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,C,CPP**
 
 - 📫 How to reach me **adityabansal1179@gmail.com**
+- ![Visitor Count](https://profile-counter.glitch.me/{Adityab1179}/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
