@@ -15,6 +15,8 @@
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,C,CPP**
 
 - 📫 How to reach me **adityabansal1179@gmail.com**
+- Or you can reach me through
+- [![Instagram](https://img.shields.io/badge/Instagram-%40Aaditya__bansal__-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Aaditya__bansal_/)
 - ![Visitor Count](https://profile-counter.glitch.me/{Adityab1179}/count.svg)
 
 <h3 align="left">Connect with me:</h3>
