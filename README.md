@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <p align='center' style='margin: 16px 5px 8px;'>
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/greetings.gif?raw=true" alt="Hello World" />
 </p>
