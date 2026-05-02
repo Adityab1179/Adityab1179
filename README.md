@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Data Structure in CPP**
+- 🌱 I’m currently learning **Data Structure in CPP,JAVA**
 
 - 📝 I regularly write articles on [WEMEDIA](WEMEDIA)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,C,CPP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,C,CPP,JAVA**
 
 - 📫 How to reach me **adityabansal1179@gmail.com**
 - Or you can reach me through
@@ -58,10 +58,7 @@
 <span>
 <p align="center" style='margin: 8px 4px;'>
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityab1179&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10"  width="500px" alt="aniketkumar7" />
-</p>
-   <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Adityab1179&show_icons=true&locale=en&theme=gruvbox" width="500px" alt="aniketkumar7" />
-</p>
+
 </span>
 </details><br><br/>
 
